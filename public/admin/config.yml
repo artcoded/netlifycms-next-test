@@ -8,9 +8,9 @@ collections:
     label: "Site settings"
     files:
     - name: "colors"
-    - label: "Colors"
-    - file: /settings/colors.json
-    - fields:
+      label: "Colors"
+      file: /settings/colors.json
+      fields:
       - { label: "Title", name: "title", widget: "string"}
   - name: "pages"
     label: "Pages"
